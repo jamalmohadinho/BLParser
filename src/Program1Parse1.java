@@ -13,7 +13,7 @@ import components.utilities.Tokenizer;
 /**
  * Layered implementation of secondary method {@code parse} for {@code Program}.
  *
- * @author Jamal Apicha and Aashi Sharma
+ * @author Jamal Apicha
  *
  *
  */
